@@ -85,4 +85,4 @@ For each phase of development:
 
 Return to the project root
 
-[⬅ Back to Project README](../frontend/README.md)
+[⬅ Back to Project README](../README.md)
